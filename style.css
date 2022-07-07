@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.box {
+    flex: auto;
+    background: white;
+    margin: auto;
+    height: auto;
+    width: 6.25%;
+}
